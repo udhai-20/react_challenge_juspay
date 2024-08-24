@@ -1,1 +1,0 @@
-# react_challenge_juspay
