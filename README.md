@@ -1,3 +1,5 @@
+**This project is a Scratch clone that allows users to drag and drop different actions into the middle section to create and run animations or sequences.**
+
 **1. Motion and Looks Blocks**
 
 **Motion Blocks**: These blocks are responsible for controlling the movement of sprites, such as moving forward, rotating, etc.
@@ -18,3 +20,12 @@ Replay Button: Allows you to replay the sequence of actions that were previously
 **5. Individual Group Execution**
 Each group of actions in the MidArea has its own Run button, which allows you to run only the actions within that specific group.
 This is useful for testing or executing different sequences independently.
+///
+**How to Use**
+**1.Adding Actions**
+Drag a motion or look block from the sidebar to the MidArea.
+Drop it within an existing group or create a new group by dropping it away from other actions.
+
+**2.Running Actions**
+To run all actions together, use the Replay Clicked Action Button button at the top.
+To run actions within a specific group, click the Run button associated with that group.
