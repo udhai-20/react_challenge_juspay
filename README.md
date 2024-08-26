@@ -20,8 +20,9 @@ Replay Button: Allows you to replay the sequence of actions that were previously
 **5. Individual Group Execution**
 Each group of actions in the MidArea has its own Run button, which allows you to run only the actions within that specific group.
 This is useful for testing or executing different sequences independently.
-///
+
 **How to Use**
+
 **1.Adding Actions**
 Drag a motion or look block from the sidebar to the MidArea.
 Drop it within an existing group or create a new group by dropping it away from other actions.
